@@ -115,3 +115,4 @@ classdef Kalman_Filter_SOC < matlab.System
         end
     end
 end
+
