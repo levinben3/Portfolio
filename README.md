@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Benjamin! 👋</h1>
-<p>
-  <a href="https://github.com/levinben3/Portfolio" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-</p>
 
 > Hi, I am an undergraduate student at Columbia University in the City of New York. As a physics major, I am both passionate about the most cutting-edge projects in different disciplines, such as high energy astrophysics, and applied software engineering projects that use my physics background. 
 
