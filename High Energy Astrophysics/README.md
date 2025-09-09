@@ -11,5 +11,5 @@ Project and Paper Links Below
 | quantile_analysis | A test script on a novel replacement for the commonly-used hardness ratio, which describes how energetic a source is. This is a much more robust way to characterize source, while allowing for error calculation and fewer individual photon detections. |
 
 ##Project Links
-* Project Presentation and Guide: [![project_presentation]](https://docs.google.com/presentation/d/1HL4Q8onpGobTwm2RAeGiQ0oTclORFduwX6KvxPzGspk/edit?usp=sharing)
-* Astronomer's Telegram Discovery Announcement: [![atel](https://www.astronomerstelegram.org/?read=17087)
+* Project Presentation and Guide: [XMM GPHS Spectral Stacking](https://docs.google.com/presentation/d/1HL4Q8onpGobTwm2RAeGiQ0oTclORFduwX6KvxPzGspk/edit?usp=sharing)
+* Astronomer's Telegram Discovery Announcement: [Atel](https://www.astronomerstelegram.org/?read=17087)
