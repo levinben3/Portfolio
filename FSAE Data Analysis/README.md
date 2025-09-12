@@ -5,5 +5,5 @@ Any .pdf's of the same name as a .slx Simulink file are visualizations of the si
 
 | File            | Explanation                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| wss_noise | Attemsp to discern the noise within the wheel speed sensor for use in a forward speed Kalman filter. |
+| wss_noise | Attempts to discern the noise within the wheel speed sensor for use in a forward speed Kalman filter. |
 
