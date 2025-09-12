@@ -1,5 +1,5 @@
 ## Traction Control Project
-This 2024-25 project focused on developing a forward speed kalman filter to help calculate slip ratio and then a feed-foward traction control system. This tractin control system was initially employed for the straightline acceleration event for the Formula SAE competition, but we are now implementing it to run on curves as well. 
+This 2024-25 project focused on developing a forward speed kalman filter to help calculate slip ratio and then a feed-forward traction control system. This traction control system was initially employed for the straightline acceleration event for the Formula SAE competition, but we are now implementing it to run on curves as well. 
 
 Any .pdf's of the same name as a .slx Simulink file are visualizations of the simulation for ease of understanding without opening in Simulink.
 
