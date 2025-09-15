@@ -13,7 +13,7 @@ I am interested in continuing to apply these diverse skills to related integrate
 | Project Name             | Contents                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | FSAE Data Analysis | Different FSAE projects focused on taking data captured using MoTec and i2 systems and processing it in different models to gain a better understanding of the vehicle, such as sensor noise, car moment, mass, coast down curves, and more. |
-| High Energy Astrophysics | All work related to high energy astrophysics, mainly focused on developing a grouping pipeline to analyze the energy spectrum of galactic center energetic point sources. This pipeline involves wget scripts, statistical groupin, contour mapping, and more.  |
+| High Energy Astrophysics | All work related to high energy astrophysics, mainly focused on developing a grouping pipeline to analyze the energy spectrum of galactic center energetic point sources. This pipeline involves wget scripts, statistical grouping, contour mapping, and more.  |
 | Low Voltage Systems | High level low voltage code written for the Columbia FSAE vehicle, combining all low voltage systems such as controls systems, sensors, and the vehicle state machine. |
 | Simulations | A variety of simulations and models developed to analyze important parts of the vehicle, such as point mass, power train, and motor simulations. |
 | Traction Control | A core Columbia FSAE controls project to develop straightline and curve feed-forward traction control to improve the team's score, time, and drivability. |
