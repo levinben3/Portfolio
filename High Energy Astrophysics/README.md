@@ -12,4 +12,5 @@ Project and Paper Links Below
 
 ## Project Links
 * Project Presentation and Guide: [XMM GPHS Spectral Stacking](https://docs.google.com/presentation/d/1HL4Q8onpGobTwm2RAeGiQ0oTclORFduwX6KvxPzGspk/edit?usp=sharing)
+* Large Paper on Chandra and NuStar Analysis of a new Galactic Center Transient: [A multiwavelength study of the new Galactic center black hole candidate MAXI J1744-294](https://arxiv.org/abs/2509.14465)
 * Astronomer's Telegram Discovery Announcement: [Atel](https://www.astronomerstelegram.org/?read=17087)
