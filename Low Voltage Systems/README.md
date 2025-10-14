@@ -6,7 +6,7 @@ Any .pdf's of the same name as a .slx Simulink file are visualizations of the si
 | File            | Explanation                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | main | Main low voltage vehicle code which includes the vehcile state machine, sensors, pedals curve, traction control, vehicle dash code, and other vital safety systems. |
-| Kalman_Filter_SOC | Initial low voltage battery state of charge estimator done via a Kalman filter. |
+| Kalman_Filter_SOC_lv | Initial low voltage battery state of charge estimator done via a Kalman filter. |
 
 ## Project Links
 * Low Voltage Design Review Poster: [LVDAQ](https://docs.google.com/presentation/d/1FLgcC0cx71Zxe5vUcTRLP_VHcHEjIIl4D5ABO7v3dM0/edit?usp=sharing)
